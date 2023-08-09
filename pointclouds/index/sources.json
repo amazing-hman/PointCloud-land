@@ -1,0 +1,1 @@
+{"bounds":{"min":[675724.15,9572718.5,1.11],"max":[676932.92,9574020.99,149.83]},"projection":"+proj=utm +zone=18 +south +datum=WGS84 +units=m +no_defs","sources":[{"name":"llanchama_rgb.las","points":2865878,"bounds":{"min":[675724.15,9572718.5,1.11],"max":[676932.92,9574020.99,149.83]}}]}
